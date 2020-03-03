@@ -1,0 +1,1 @@
+Robocopy.exe D:\ E:\Backup_Folder /E /SEC /COPYALL /MIR /A-:RASHCNET /R:1 /W:1 /NP /LOG:"C:\Robocopy.log" /TEE
