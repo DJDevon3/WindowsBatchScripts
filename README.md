@@ -1,4 +1,4 @@
-#Windows batch scripts for creating backups.
+# Windows batch scripts for creating backups.
 
 1. WinSCP Batch script is for manually backing up an Edgerouter config folder via ethernet using the Edgerouters built in SFTP/SCP server. Requires WinSCP to be installed.
 
